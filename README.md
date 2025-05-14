@@ -367,6 +367,57 @@ Ahora bajamos y **Guardamos los cambios**
 
 Podemos ver que los roles se han configurado correctamente.
 
+## 16. Añadir recursos y actividades
+
+Con el **Modo de edición** activado, podemos añadir tareas y cuestionarios en las distintas secciones del curso.
+
+### Añadir una tarea en el curso "A"
+
+1. Dentro del curso **"A"**, haz clic en **Añadir una actividad o recurso** en la sección que prefieras.
+2. Selecciona la opción **Tarea** para crear una actividad en la que los alumnos puedan entregar trabajos.
+![image](https://github.com/user-attachments/assets/91e715a1-9e99-40ae-b279-3a0e3e3a44fa)
+![image](https://github.com/user-attachments/assets/96812d68-3483-4e54-a514-8cd689e63376)
+
+Le ponemos el nombre y enunciado a la tarea y si quieres añadir un archivo lo puedes hacer.
+![image](https://github.com/user-attachments/assets/21d6e95e-e304-4a4b-892a-aeec7cca62ed)
+
+Configuramos la fecha de entrega, y si quieres configurar otro apartado también lo puedes configurar a tu gusto.
+![image](https://github.com/user-attachments/assets/47c6dbc7-0a43-4dd9-a2e1-d59f56b019a4)
+![image](https://github.com/user-attachments/assets/50361c6a-e31a-497c-a0ee-cb50d4c2b0c7)
+
+### Añadir un cuestionario en otra sección
+
+1. En otra sección del curso, repite el mismo proceso y haz clic en **Añadir una actividad o recurso**.
+2. Esta vez, selecciona la opción **Cuestionario** para crear una evaluación con preguntas.
+![Captura desde 2025-05-14 02-16-16](https://github.com/user-attachments/assets/53ed9178-2295-4fe2-ba0d-0286f0e1a183)
+
+Lo modificamos a nuestro gusto
+![image](https://github.com/user-attachments/assets/7316689d-fdfe-4103-8d8f-f456953f4cdb)
+
+Guardamos los cambios y le decimos que nos muestre como queda:
+![image](https://github.com/user-attachments/assets/d93ba957-8692-43fc-b486-9aaf62653fef)
+
+El resultado:
+![image](https://github.com/user-attachments/assets/4e597712-e805-44dd-b005-523da409b49e)
+
+En el apartado **Agregar**, aparecerán varias opciones. 
+Haz clic en **Banco de preguntas** para gestionar las preguntas que formarán parte del cuestionario.
+![image](https://github.com/user-attachments/assets/651b83f2-e03e-439b-8586-af1d5606446e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
