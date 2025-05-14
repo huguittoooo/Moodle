@@ -27,6 +27,8 @@ Sigue simplemente las capturas:
 Seleccionamos un archivo que nosotros queramos como fondo de avatar y lo suuubimos y guardamos los cambios:
 ![Captura desde 2025-03-12 12-28-44](https://github.com/user-attachments/assets/89969b71-ea7f-4ff0-964e-db2b56e57880)
 
+
+
 Nos quedaria algo así:
 ![Captura desde 2025-03-12 12-29-27](https://github.com/user-attachments/assets/dcb6a8f2-6bfe-4082-af88-21b75ff2308f)
 
@@ -401,8 +403,20 @@ El resultado:
 ![image](https://github.com/user-attachments/assets/4e597712-e805-44dd-b005-523da409b49e)
 
 En el apartado **Agregar**, aparecerán varias opciones. 
-Haz clic en **Banco de preguntas** para gestionar las preguntas que formarán parte del cuestionario.
+Haz clic en **una nueva pregunta** para gestionar las preguntas que formarán parte del cuestionario.
 ![image](https://github.com/user-attachments/assets/651b83f2-e03e-439b-8586-af1d5606446e)
+![image](https://github.com/user-attachments/assets/52b11c1e-2096-4f26-bb99-19db9f2f5512)
+
+Elegimos qué tipo de preguntas queremos hacer y comenzamos a hacer las preguntas.
+
+![image](https://github.com/user-attachments/assets/ca746d8d-065d-473c-bfaa-17f2c216186d)
+
+Ponemos la pregunta que queramos:
+
+
+
+
+
 
 
 
