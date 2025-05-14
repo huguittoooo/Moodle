@@ -412,6 +412,35 @@ Elegimos qué tipo de preguntas queremos hacer y comenzamos a hacer las pregunta
 ![image](https://github.com/user-attachments/assets/ca746d8d-065d-473c-bfaa-17f2c216186d)
 
 Ponemos la pregunta que queramos:
+![Captura desde 2025-05-14 02-40-19](https://github.com/user-attachments/assets/1db67ede-55dd-45ff-a852-e57d71ee19eb)
+
+Para cada pregunta, debes establecer la **calificación más alta**. Esto indica que es la respuesta correcta.
+Después de añadir la respuesta correcta, verás que la pregunta se **agrega automáticamente al cuestionario**.
+Repite el proceso hasta añadir tantas preguntas como desees al cuestionario.
+
+![image](https://github.com/user-attachments/assets/44a96e70-c563-4cd4-9dce-6221e4fc75de)
+
+**Guardamos los cambios**
+![Captura desde 2025-05-14 02-45-09](https://github.com/user-attachments/assets/d441936a-7bc6-4612-8524-bd6285b9a11b)
+
+Nos tendría que aparecer este apartado con forme esta el cuestrionario:
+![image](https://github.com/user-attachments/assets/e8b84f7a-60bc-44d4-bfb8-55fef30eaff9)
+
+Aqui podemos ver como lo veria el usuario que haga el cuestionario:
+![Captura desde 2025-05-14 02-47-47](https://github.com/user-attachments/assets/22289f1d-dfb8-4665-8a74-9b8945bc3713)
+
+Le damos a **Guardar**
+![image](https://github.com/user-attachments/assets/3ef4cef0-8270-49a2-a281-a3c7fd4a0c19)
+
+Y hasta aqui mi manual de instalación, espero que te sirva de ayuda.
+
+
+
+
+
+
+
+
 
 
 
